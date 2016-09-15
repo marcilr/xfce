@@ -1,0 +1,18 @@
+xfce.txt
+Created Thu Oct 15 08:38:02 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Xfce Desktop Environment
+
+
+Xfce is a lightweight desktop environment for UNIX-like operating systems.
+It aims to be fast and low on system resources, while still being visually
+appealing and user friendly.
+
+
+Links
+=====
+Xfce Desktop Environment
+http://www.xfce.org/
+
