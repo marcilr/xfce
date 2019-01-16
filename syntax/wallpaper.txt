@@ -1,4 +1,5 @@
 wallpaper.txt
+<<<<<<< HEAD
 Created Wed Jan 16 13:25:44 AKST 2019
 by Raymond E. Marcil <ray.marcil@alaska.gov>
 
@@ -43,3 +44,31 @@ This was useful in setting wallpaper:
 
   Think in xfdesktop-settings can select an image for wallpaper.
 
+=======
+Created Tue Dec  5 08:26:37 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Wallpaper for XFCE
+
+
+XFCE wallpaper directory:
+  /usr/share/backgrounds/xfce/
+    xfce-blue.jpg
+      Mouse on blue background
+
+    xfce-teal.jpg
+      Mouse on zoned blue background
+
+
+Tue Dec  5 08:26:37 AKST 2017
+=============================
+To get the single wallpaper image I had set to span the screens:
+  right-click Desktop > Desktop Settings... > Background
+  select: Style: Spanning screens
+  click Close
+
+Noticed "Folder" is set to "wallpaper", think /usr/local/wallpaper?
+
+This fixed my ~/bin/wallpaper script.
+>>>>>>> e6bba7fa23af4d42fdf2e328a4200576bd083391

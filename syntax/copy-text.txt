@@ -1,0 +1,13 @@
+copy-text.txt
+Created Fri Jun 29 08:50:56 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Under XFCE v4.12 under Debian stretch 9.3 amd64 to copy text:
+o ctrl-c/ctrl-v
+o Copy in applications
+o Highlight text in terminals
+o Paste in applictions
+o Single click to paste
+
+Description of buffers?
