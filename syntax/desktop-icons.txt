@@ -6,7 +6,7 @@ by Raymond E. Marcil <ray.marcil@alaska.gov>
 Desktop icons
 
 
-Need to fix desktop google chrome icon under Xfce in 
+Need to fix desktop google chrome icon under Xfce 4.12 in 
 Debian 9.6 amd64.
 
 
