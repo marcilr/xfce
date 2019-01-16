@@ -1,0 +1,27 @@
+wallpaper.txt
+Created Tue Dec  5 08:26:37 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Wallpaper for XFCE
+
+
+XFCE wallpaper directory:
+  /usr/share/backgrounds/xfce/
+    xfce-blue.jpg
+      Mouse on blue background
+
+    xfce-teal.jpg
+      Mouse on zoned blue background
+
+
+Tue Dec  5 08:26:37 AKST 2017
+=============================
+To get the single wallpaper image I had set to span the screens:
+  right-click Desktop > Desktop Settings... > Background
+  select: Style: Spanning screens
+  click Close
+
+Noticed "Folder" is set to "wallpaper", think /usr/local/wallpaper?
+
+This fixed my ~/bin/wallpaper script.
