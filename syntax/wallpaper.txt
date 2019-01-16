@@ -1,5 +1,4 @@
 wallpaper.txt
-<<<<<<< HEAD
 Created Wed Jan 16 13:25:44 AKST 2019
 by Raymond E. Marcil <ray.marcil@alaska.gov>
 
@@ -71,4 +70,3 @@ To get the single wallpaper image I had set to span the screens:
 Noticed "Folder" is set to "wallpaper", think /usr/local/wallpaper?
 
 This fixed my ~/bin/wallpaper script.
->>>>>>> e6bba7fa23af4d42fdf2e328a4200576bd083391
