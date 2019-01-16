@@ -1,17 +1,26 @@
 links.txt
-Created Thu Oct 15 08:39:45 AKDT 2015
-Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+Created Sun Dec  3 09:04:30 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Xfce related links
+Xfce4 Desktop Environment related links
 
 
 Links
 =====
+Dual monitors, one wallpaper
+by Hammett, 2009-12-29 15:05:52
+NOTE: Still have not gotten this to work (December 3, 2017)
+https://forum.xfce.org/viewtopic.php?id=5300
+
+set the desktop wallpaper under Xfce4
+March 8, 2015 by Jabba Laci
+NOTE: Still have not gotten this to work (December 3, 2017)
+https://ubuntuincident.wordpress.com/2015/03/08/set-the-desktop-wallpaper-under-xfce4/
+
+Xfce Desktop Environment
+https://xfce.org/
+
 Xfce
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Xfce
-
-Xfce Desktop Environment
-http://www.xfce.org/
-
