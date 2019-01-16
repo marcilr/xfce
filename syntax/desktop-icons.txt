@@ -1,0 +1,20 @@
+desktop-icons.txt
+Created Wed Jan 16 07:55:43 AKST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Desktop icons
+
+
+Need to fix desktop google chrome icon under Xfce in 
+Debian 9.6 amd64.
+
+
+Filelist
+========
+google-chrome.desktop
+  /home/rmarcil/git/rmarcil/.local/share/xfce4/helpers/google-chrome.desktop
+    114:Icon=google-chrome
+    ===> Icon=/usr/share/icons/google-chrome.png
+  /usr/share/applications/google-chrome.desktop
+    111:Icon=/usr/share/icons/google-chrome.png
