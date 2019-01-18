@@ -13,6 +13,18 @@ by Hammett, 2009-12-29 15:05:52
 NOTE: Still have not gotten this to work (December 3, 2017)
 https://forum.xfce.org/viewtopic.php?id=5300
 
+How to customize Gnome login screen in Debian
+Solid info and scripts.
+Had initial link to loginized utility.
+"It is GNOME GDM Login Theme Manager which allows
+you to change login theme and the background image
+as well. There might be also more features upcoming
+to the application."
+https://unix.stackexchange.com/questions/310923/how-to-customize-gnome-login-screen-in-debian
+
+loginized
+https://github.com/juhaku/loginized
+
 set the desktop wallpaper under Xfce4
 March 8, 2015 by Jabba Laci
 NOTE: Still have not gotten this to work (December 3, 2017)
