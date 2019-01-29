@@ -1,0 +1,15 @@
+xrandr.txt
+Created Tue Jan 29 08:06:59 AKST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+xrandr - primitive command line interface to RandR extension
+
+
+Jan 29 08:03:55 AKST 2019
+=========================
+To set resolution of display use xrandr in ~/.bashrc:
+  /usr/bin/xrandr --size 1680x1050
+
+Looks good on 24" display.
+
