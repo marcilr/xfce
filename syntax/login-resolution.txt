@@ -14,3 +14,9 @@ To update the grub text or login update GRUB_GFXMODE in
 # you can see them in real GRUB with the command `vbeinfo'
 #GRUB_GFXMODE=640x480
 GRUB_GFXMODE=1920x1080
+
+
+Links
+=====
+Login resolution
+https://ubuntuforums.org/showthread.php?t=2217273
