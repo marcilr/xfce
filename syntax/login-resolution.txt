@@ -28,6 +28,7 @@ Updated the relevent looking bashrc files:
 # echo "/usr/bin/xrandr --size 1680x1050" > /etc/skel/.bashrc
 # echo "/usr/bin/xrandr --size 1680x1050" > /etc/bash.bashrc
 
+NOTE: This failed to make any changes to the login screen.
 
 
 Grub configuration update
