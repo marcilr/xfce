@@ -6,6 +6,32 @@ by Raymond E. Marcil <ray.marcil@alaska.gov>
 Login resolution
 
 
+
+Tue Jan 29 08:25:15 AKST 2019
+=============================
+
+System .bashrc update
+---------------------
+$ locate bashrc
+/etc/bash.bashrc
+/etc/skel/.bashrc
+/home/rmarcil/.bashrc
+/home/rmarcil/git/rmarcil/.bashrc
+/root/.bashrc
+/usr/share/base-files/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+$
+
+Updated the relevent looking bashrc files:
+
+# echo "/usr/bin/xrandr --size 1680x1050" > /etc/skel/.bashrc
+# echo "/usr/bin/xrandr --size 1680x1050" > /etc/bash.bashrc
+
+
+
+Grub configuration update
+-------------------------
 To update the grub text or login update GRUB_GFXMODE in 
 /etc/default/grub as follows:
 
@@ -31,6 +57,8 @@ Found linux image: /boot/vmlinuz-4.9.0-4-amd64
 Found initrd image: /boot/initrd.img-4.9.0-4-amd64
 done
 #
+
+NOTE: The above did not appear to make any changes.
 
 
 Links
