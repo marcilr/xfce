@@ -6,6 +6,16 @@ by Raymond E. Marcil <ray.marcil@alaska.gov>
 Display settings
 
 
+Jan 29 08:03:55 AKST 2019
+=========================
+To set resolution of display use xrandr in ~/.bashrc:
+  /usr/bin/xrandr --size 1680x1050
+
+Looks good on 24" display.
+
+
+Wed Jan 16 08:03:44 AKST 2019
+=============================
 Go to:
   Applications > Settings > Display
 
