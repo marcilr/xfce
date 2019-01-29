@@ -5,10 +5,9 @@ Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
-<<<<<<< HEAD
 wallpaper.txt
   Setting wallpaper in Xfce
-=======
+
 copy-text.txt
   Under XFCE v4.12 under Debian stretch 9.3 amd64 to copy text:
   o ctrl-c/ctrl-v
@@ -16,7 +15,6 @@ copy-text.txt
   o Highlight text in terminals
   o Paste in applictions
   o Single click to paste
->>>>>>> e6bba7fa23af4d42fdf2e328a4200576bd083391
 
 desktop-icons.txt
   Desktop icons
@@ -31,3 +29,7 @@ syntax.txt
 
 wallpaper.txt
   Wallpaper for XFCE
+
+xrandr.txt
+  xrandr - primitive command line interface to RandR extension
+
