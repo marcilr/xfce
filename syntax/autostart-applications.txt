@@ -22,6 +22,9 @@ $ cp /usr/share/applications/xfce4-terminal.desktop .
 
 Links
 =====
+Autostart programs in Xfce the hardcore way
+http://tillamookrage.blogspot.com/2007/12/autostart-programs-in-xfce-hardcore-way.html
+
 HOW TO AUTOSTART ANY APPLICATION ON ANY LINUX DESKTOP
 Jul 22, 2018 | Applications, ArcoLinux, Conky, Design, Post-installation
 https://arcolinux.com/how-to-autostart-any-application-on-any-linux-desktop/
