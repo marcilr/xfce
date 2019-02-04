@@ -1,0 +1,68 @@
+login-resolution.txt
+Created Tue Jan 29 08:25:15 AKST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Login resolution
+
+
+
+Tue Jan 29 08:25:15 AKST 2019
+=============================
+
+System .bashrc update
+---------------------
+$ locate bashrc
+/etc/bash.bashrc
+/etc/skel/.bashrc
+/home/rmarcil/.bashrc
+/home/rmarcil/git/rmarcil/.bashrc
+/root/.bashrc
+/usr/share/base-files/dot.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/bash.bashrc
+/usr/share/doc/adduser/examples/adduser.local.conf.examples/skel/dot.bashrc
+$
+
+Updated the relevent looking bashrc files:
+
+# echo "/usr/bin/xrandr --size 1680x1050" > /etc/skel/.bashrc
+# echo "/usr/bin/xrandr --size 1680x1050" > /etc/bash.bashrc
+
+NOTE: This failed to make any changes to the login screen.
+
+
+Grub configuration update
+-------------------------
+To update the grub text or login update GRUB_GFXMODE in 
+/etc/default/grub as follows:
+
+#
+# The resolution used on graphical terminal
+# note that you can use only modes which your graphic card supports via VBE
+# you can see them in real GRUB with the command `vbeinfo'
+#
+# NOTE: Uncertain this actual works.
+#
+#GRUB_GFXMODE=640x480
+GRUB_GFXMODE=1920x1080
+
+Remember to run update-grub afterwards to update
+/boot/grub/grub.cfg
+
+# update-grub
+Generating grub configuration file ...
+Found background image: /usr/share/images/desktop-base/desktop-grub.png
+Found linux image: /boot/vmlinuz-4.9.0-8-amd64
+Found initrd image: /boot/initrd.img-4.9.0-8-amd64
+Found linux image: /boot/vmlinuz-4.9.0-4-amd64
+Found initrd image: /boot/initrd.img-4.9.0-4-amd64
+done
+#
+
+NOTE: The above did not appear to make any changes.
+
+
+Links
+=====
+Login resolution
+https://ubuntuforums.org/showthread.php?t=2217273

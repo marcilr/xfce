@@ -1,4 +1,49 @@
 wallpaper.txt
+Created Wed Jan 16 13:25:44 AKST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Wallpaper
+
+
+In Xfce to configure wallpaper run:
+  xfce4-settings-manager
+
+Despire there being alot by default under:
+  /usr/share/wallpaper
+
+I created:
+  /usr/local/wallpaper
+
+Ran xfce4-settings-manager as rmarcil and under 'Desktop'
+reconfigured the "Folder" from 'desktop-base'.
+
+From googling looks like the wallpapers folder is:
+  /usr/share/backgrounds/xfce/
+
+To pick image go to:
+  Applications > Settings > Desktop
+
+This was useful in setting wallpaper:
+  Solution
+  1) Run thunar
+  2) Go to the folder /usr/share/xfce4
+  3) Click once over the folder /backdrops    (this folder will contain all the images you want for your dektop)
+  4) Drag the folder to the left to include it in your preferred folders
+  5) Run xfdesktop-settings
+  6) Choose the folder backdrops, that now will appear in your list and will be accessible
+  7) The images will be diplayed
+  8) Chose a nice image
+  9) Enjoy
+  --[SOLVED] I can't choose desktop background under User.
+    https://forum.xfce.org/viewtopic.php?id=11704
+
+  In thunar set wallpaper folder to:
+    /usr/share/backgrounds/xfce/
+
+  Think in xfdesktop-settings can select an image for wallpaper.
+
+=======
 Created Tue Dec  5 08:26:37 AKST 2017
 Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 

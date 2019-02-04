@@ -24,8 +24,15 @@ display-settings.txt
   Display settings
   Applications > Settings > Display
 
+login-resolution.txt
+  Login resolution 
+
 syntax.txt
   Syntax
 
 wallpaper.txt
   Wallpaper for XFCE
+
+xrandr.txt
+  xrandr - primitive command line interface to RandR extension
+

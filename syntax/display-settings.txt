@@ -6,6 +6,8 @@ by Raymond E. Marcil <ray.marcil@alaska.gov>
 Display settings
 
 
+Wed Jan 16 08:03:44 AKST 2019
+=============================
 Go to:
   Applications > Settings > Display
 
