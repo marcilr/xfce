@@ -1,0 +1,27 @@
+autostart-applications.txt
+Created Mon Feb  4 08:02:52 AKST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Autostar applications
+
+
+To autostart applications in X create *.desktop files
+under ~/.config/autostart/:
+
+1. Create ~/.config/autostart
+$ cd ~
+$ mkdir -p .config/autostart
+$ cd ~/.config/autostart/
+
+To autolaunch xfce4-terminal:
+$ cp /usr/share/applications/xfce4-terminal.desktop .
+
+
+
+
+Links
+=====
+HOW TO AUTOSTART ANY APPLICATION ON ANY LINUX DESKTOP
+Jul 22, 2018 | Applications, ArcoLinux, Conky, Design, Post-installation
+https://arcolinux.com/how-to-autostart-any-application-on-any-linux-desktop/
