@@ -13,6 +13,14 @@ appealing and user friendly.
 
 Filelist
 ========
+manifest
+  Manifest for resync application
+
+thunar/
+  Thunar is a fast and easy to use file manager
+  for the Xfce Desktop Environment.
+  http://thunar.xfce.org/
+
 xfce.txt
   Xfce Desktop Environment
   Xfce is a lightweight desktop environment for UNIX-like operating systems.
