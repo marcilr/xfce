@@ -27,6 +27,9 @@ display-settings.txt
 login-resolution.txt
   Login resolution 
 
+minimize-windows.txt
+  To minimize all windows use: ctrl-alt-d
+
 syntax.txt
   Syntax
 
