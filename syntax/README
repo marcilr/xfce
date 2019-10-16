@@ -30,6 +30,12 @@ login-resolution.txt
 minimize-windows.txt
   To minimize all windows use: ctrl-alt-d
 
+save-xfce4-session.txt
+  To save xfce4 session from command line use:
+
+  $ dbus-send --session --dest=org.xfce.SessionManager --print-reply \
+        /org/xfce/SessionManager org.xfce.Session.Manager.Checkpoint string:""
+
 syntax.txt
   Syntax
 
@@ -38,4 +44,3 @@ wallpaper.txt
 
 xrandr.txt
   xrandr - primitive command line interface to RandR extension
-
