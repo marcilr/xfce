@@ -1,0 +1,6 @@
+minimize-windows.txt
+Created Wed Oct 16 15:43:07 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+To minimize all windows use: ctrl-alt-d
