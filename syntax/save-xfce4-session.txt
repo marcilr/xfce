@@ -1,0 +1,17 @@
+save-xfce4-session.txt
+Created Wed Oct 16 15:44:57 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+To save xfce4 session from command line use:
+
+$ dbus-send --session --dest=org.xfce.SessionManager --print-reply \
+      /org/xfce/SessionManager org.xfce.Session.Manager.Checkpoint string:""
+
+
+Links
+=====
+Save xfce4 session from the command-line
+UNIX & LINUX
+https://unix.stackexchange.com/questions/401246/save-xfce4-session-from-the-command-line
+
