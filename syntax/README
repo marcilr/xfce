@@ -8,6 +8,9 @@ Filelist
 autostart-applications.txt
   Autostart applications
 
+commands.txt
+  Commands
+
 copy-text.txt
   Under XFCE v4.12 under Debian stretch 9.3 amd64 to copy text:
   o ctrl-c/ctrl-v
