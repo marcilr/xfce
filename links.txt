@@ -6,6 +6,17 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Xfce4 Desktop Environment related links
 
 
+Interesting:
+  DragonBox Pyra
+  From Wikipedia, the free encyclopedia
+  https://en.wikipedia.org/wiki/DragonBox_Pyra
+
+  Pandora (console)
+  From Wikipedia, the free encyclopedia
+  https://en.wikipedia.org/wiki/Pandora_(console)
+
+
+
 Links
 =====
 Dual monitors, one wallpaper
