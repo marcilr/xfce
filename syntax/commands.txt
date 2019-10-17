@@ -1,0 +1,10 @@
+commands.txt
+Created Thu Oct 17 15:20:10 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Commands
+
+
+ctrl+F1-F4   Switch workspaces
+ctrl+alt+d   Hide or display all windows
