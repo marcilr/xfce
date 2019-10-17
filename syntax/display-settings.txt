@@ -17,4 +17,4 @@ Go to:
     Rotation:      None
     Reflection:    None
 
-    Idenitfy Displays
+    Identify Displays
