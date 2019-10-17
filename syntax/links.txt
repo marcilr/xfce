@@ -1,0 +1,13 @@
+links.txt
+Created Thu Oct 17 15:08:48 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Xfce syntax related links
+
+
+Links
+=====
+How to Customize the XFCE Desktop Environment
+Lifewire
+https://www.lifewire.com/customize-xfce-desktop-environment-2202080
