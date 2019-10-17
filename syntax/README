@@ -39,6 +39,14 @@ save-xfce4-session.txt
 syntax.txt
   Syntax
 
+version.txt
+  Xfce version
+
+  In terminal type:
+    xfce4-about
+      or
+    xfce4-panel --version
+
 wallpaper.txt
   Wallpaper for XFCE
 
