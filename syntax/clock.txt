@@ -1,0 +1,27 @@
+clock.txt
+Created Thu 14 Nov 2019 10:24:45 AM AKST
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Clock display
+
+
+
+XFCE Panel Clock Disappears
+===========================
+Right click the clock panel (or access from panel preferences)
+and set the configuration you want but do NOT close the properties
+window.  Instead, while leaving it open, logout and log back in.
+The clock should reappear with the preferences you set.  For some
+reason closing the properties window seems to reset the settings
+to blank custom fields, which makes the clock disappear.
+--edited Oct 29 '17 at 15:50
+  Videonauth
+  answered Oct 29 '17 at 15:19
+  James
+
+
+Links
+=====
+XFCE Panel Clock Disappears
+https://askubuntu.com/questions/959339/xfce-panel-clock-disappears
