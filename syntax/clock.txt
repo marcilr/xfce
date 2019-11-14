@@ -1,10 +1,54 @@
-clock.txt
+clock-format.txt
 Created Thu 14 Nov 2019 10:24:45 AM AKST
 Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Clock display
+Clock format
 
+1. Open Panel Preferences for Clock:
+  right-click horizontal panel > Panel > Panel Proferences...
+  click Items tab
+  double-click Clock
+
+2. Under Clock Options update:
+  Format: Custom Format ===> 10:29AM
+
+3. Do *not* Close Clock dialog just exit XFCE.
+
+
+Display clock in upper right of xfce panel:
+1. Open Panel Preferences for Add New Items...
+  select Clock
+  click Add
+
+  This will display time in upper right of panel.
+
+2. Append AM/PM to clock time:
+
+  right-click clock > Properties
+  set Format to: 10:34 AM
+
+  This will append AM/PM to clock time
+
+3. To set time/date format
+  i.   right-click clock > Properties
+
+  ii.  For Clock Options
+       Format: 10:43 AM ===> Custom Format
+
+  iii. Update Format:
+       %I:%M %p ===> %b %d, %Y, %I:%M %p
+                     Nov 14, 2019, 10:34 AM
+  
+       Where:   10:34 AM/PM is: %I:%M %p
+                Mon - Sun is:   %a
+                Jan - Dec is:   %b
+                day of month:   %d
+                year:           %Y
+                --man date
+
+  iv. Close Clock settings
+      click Close
 
 
 XFCE Panel Clock Disappears
