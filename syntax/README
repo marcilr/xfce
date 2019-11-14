@@ -8,8 +8,8 @@ Filelist
 autostart-applications.txt
   Autostart applications
 
-clock.txt
-  Clock display
+clock-format.txt
+  Set clock format with date & time
 
 commands.txt
   Commands
