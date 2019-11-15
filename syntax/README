@@ -42,6 +42,9 @@ save-xfce4-session.txt
   $ dbus-send --session --dest=org.xfce.SessionManager --print-reply \
         /org/xfce/SessionManager org.xfce.Session.Manager.Checkpoint string:""
 
+screen-lock.txt
+  Screen lock for XFCE
+
 syntax.txt
   Syntax
 
