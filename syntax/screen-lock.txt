@@ -1,0 +1,30 @@
+screen-lock.txt
+Created Fri 15 Nov 2019 08:09:59 AM AKST
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Screen lock
+
+
+The default xfce-screen lock is:
+    ctrl-alt-l
+
+However, unable to unlock screen short of system reboot.
+
+Found reference to:
+
+  Ctrl+Alt+F1 brings tty1, login my account, then
+
+  sudo -i loginctl list-sessions
+  sudo -i loginctl unlock-session id
+  --askubuntu.com/questions/557833/
+
+
+Links
+=====
+How do I lock the screen in XFCE?
+ctrl-alt-l
+https://ubuntuforums.org/showthread.php?t=1021725
+
+How to unlock locked session?
+https://askubuntu.com/questions/557833/how-to-unlock-locked-session
