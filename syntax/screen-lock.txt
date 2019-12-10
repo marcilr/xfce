@@ -6,10 +6,20 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Screen lock
 
 
-The default xfce-screen lock is:
-    ctrl-alt-l
+XScreenSaver 5.42
+  Lock with:   Ctrl+Alt+L
+  Unlock:      tap key and enter workstation login
 
-However, unable to unlock screen short of system reboot.
+Working good!
+
+
+Tue 10 Dec 2019 09:22:16 AM AKST
+================================
+Disabling LightDM/Xfce did the trick.  Now the 
+XScreenSaver 5.42 works great.
+
+Lock with:   Ctrl+Alt+L
+Unlock:      tap key and enter workstation login
 
 
 Sat 07 Dec 2019 06:58:33 PM AKST
