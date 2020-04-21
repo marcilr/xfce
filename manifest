@@ -27,4 +27,5 @@
 # Xfce
 #
 # =====================================================================
-ssh://git@github.com/marcilr/thunar   thunar
+ssh://git@github.com/marcilr/thunar        thunar
+ssh://git@github.com/marcilr/xfce4-panel   xfce4-panel
