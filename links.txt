@@ -41,9 +41,13 @@ March 8, 2015 by Jabba Laci
 NOTE: Still have not gotten this to work (December 3, 2017)
 https://ubuntuincident.wordpress.com/2015/03/08/set-the-desktop-wallpaper-under-xfce4/
 
-Xfce Desktop Environment
-https://xfce.org/
-
 Xfce
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Xfce
+
+Xfce Desktop Environment
+https://xfce.org/
+
+Xfce/Guide
+gentoo linux
+https://wiki.gentoo.org/wiki/Xfce/Guide
