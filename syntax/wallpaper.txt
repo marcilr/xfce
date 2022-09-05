@@ -60,6 +60,20 @@ XFCE wallpaper directory:
       Mouse on zoned blue background
 
 
+Mon 05 Sep 2022 01:13:09 PM AKDT
+================================
+This appears to set wallpaper:
+$ xfdesktop -Q && xfdesktop -e
+
+For xfce wallpaper configuration run:
+$ xfce4-settings-manager
+
+click Desktop to set an image on left display.
+
+
+How to set xfce wallpaper from commamnd line?
+
+
 Tue Dec  5 08:26:37 AKST 2017
 =============================
 To get the single wallpaper image I had set to span the screens:
